@@ -2,3 +2,4 @@ gitの練習です。
 gitの基本的なワークフローを選びます
 ・git rm
 .gitstatus
+/git giff
